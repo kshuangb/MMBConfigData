@@ -2,3 +2,9 @@
   client:
     serviceUrl:
       defaultZone: http://eureka-primary:8010/eureka/
+      
+      
+---
+ spring:
+    profiles: subject
+  words: I,You,He,She,It
