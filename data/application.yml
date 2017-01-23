@@ -10,4 +10,6 @@
  words: I,You,He,She,It
  
 ---
+ spring:
+    profiles: verb
  words: ran,knew,had,saw,bought
